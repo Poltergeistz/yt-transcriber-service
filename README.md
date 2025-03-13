@@ -60,7 +60,7 @@ docker-compose up -d
 ## 📡 API Usage  
 
 ### 🔹 Endpoint: `/transcribe`  
-**Method:** `GET`  
+**Method:** `POST`  
 **Query Parameter:**  
 - `video_id` → The YouTube video ID  
 
