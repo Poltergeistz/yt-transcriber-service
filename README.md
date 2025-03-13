@@ -32,7 +32,7 @@ The project is built using the following technologies:
 ### 🐳 Running with Docker  
 
 ```sh
-docker run -p 5000:5000 poltergeistz/yt-transcriber-servicer:latest
+docker run -p 5000:5000 poltergeistz/youtube-transcriber:latest
 ```
 
 Or, add it to your `docker-compose.yml`:
